@@ -10,7 +10,8 @@
 <p>Este proyecto es una aplicación sencilla en JavaScript, HTML y CSS que permite a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para seleccionar uno de ellos.</p>
 
 ##Estado del Proyecto
-:construction: Proyecto en construcción :construction:
+<h4> :construction: Proyecto en construcción :construction: </h4>
+
 
 ##Características de la aplicación
 <h3>Funcionalidades: </h3>
