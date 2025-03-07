@@ -1,5 +1,6 @@
 let ListAmigos = []; //Contiene todos los nombres
 
+//Función 1
 function agregarAmigo() {
   let amigo = document.getElementById("amigo").value;
   if (amigo !== "") {
@@ -12,9 +13,10 @@ function agregarAmigo() {
   }
 }
 
+//Función 2
 function actualizarLista() {
   let lista = document.getElementById("listaAmigos");
-  lista.innerHTML = ""; 
+  lista.innerHTML = "";
 
   for (let i = 0; i < ListAmigos.length; i++) {
     let li = document.createElement("li"); // Crea el elemento <li>
@@ -23,10 +25,7 @@ function actualizarLista() {
   }
 }
 
-function LimpiarAmigos() {
-  document.getElementById("listaAmigos").innerHTML = ""; 
-}
-
+//Función 3
 function sortearAmigo() {
   if (ListAmigos.length == 0) {
     alert("Ingrese amigos para poder realizar el sorteo");
@@ -44,6 +43,12 @@ function sortearAmigo() {
   }
 }
 
+//Función 4
+function LimpiarAmigos() {
+  document.getElementById("listaAmigos").innerHTML = "";
+}
+
+//Función 5
 function LimpiarCampo() {
   document.getElementById("amigo").value = "";
 }
