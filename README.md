@@ -35,11 +35,11 @@
 <h2>Como uso el programa?</h2>
 <ul>
   <li>Primero se añade el nombre un amigo clickeando en el botón "Añadir"</li>
-  ![Inserción del nombre](https://github.com/user-attachments/assets/ef346a65-7d8b-45ca-8ebe-4d775d78818a)
+  ![Inserción del nombre](https://github.com/user-attachments/assets/38dfd9d1-cf45-43fa-be70-2a667dd82f67)
   <li>Luego de añadir todos los amigos que quieras, debajo se puede visualizar una lista de todos loa amigos </li>
-  ![Visualizar lista de amigos](https://github.com/user-attachments/assets/09390cea-62d8-4eee-9538-5d4f6dc273fa)
+  ![Visualizar lista de amigos](https://github.com/user-attachments/assets/7e079999-121f-4cb3-aee3-cdd88dcba2a8)
   <li>Finalmente al clickear el boton "Sortear Amigo", se realiza el sorteo y por debajo se puede visualizar el nombre del amigo que fué seleccionado </li>
-  ![Sorteo realizado](https://github.com/user-attachments/assets/07946a18-af40-4a75-8eb3-7b8ff275e240)
+  ![Sorteo](https://github.com/user-attachments/assets/452efa67-3050-49f7-96c4-311d9bbb2dae)
 </ul>
 
 
