@@ -1,12 +1,12 @@
-<h1 align="center"> Challenge Amigo Secreto </h1>
+<h1> Challenge Amigo Secreto </h1>
 
 <h2> Índice </h2>
 <ul>
   <li>Descripción del proyecto</li>
   <li>Estado del proyecto</li>
-  <li>Tecnologías utilizadas </li>
   <li>Características de la aplicación</li>
-  <li>Cómo uso el programa?</li>
+  <li>Cómo utilizar el programa?</li>
+  <li>Tecnologías utilizadas </li>
 </ul>
 
 <h2> Descripción del proyecto</h2>
@@ -14,13 +14,6 @@
 
 <h2> Estado del Proyecto </h2>
 <h4> :construction: Proyecto en construcción :construction: </h4>
-
-<h2> 💡 Tecnologías Utilizadas </h2>
-<ul>
-  <li>HTML: Para la estructura y elementos de la página web</li>
-  <li>CSS: Para mejorar la apariencia y organización del contenido</li>
-  <li>JavaScript: Para la lógica del sorteo, y manipulación del DOM</li>
-</ul>
 
 <h2> Características de la aplicación </h2>
 <h3> 🛠 Funcionalidades: </h3>
@@ -42,4 +35,9 @@
   ![Sorteo](https://github.com/user-attachments/assets/452efa67-3050-49f7-96c4-311d9bbb2dae)
 </ul>
 
-
+<h2> 💡 Tecnologías Utilizadas </h2>
+<ul>
+  <li>HTML: Para la estructura y elementos de la página web</li>
+  <li>CSS: Para mejorar la apariencia y organización del contenido</li>
+  <li>JavaScript: Para la lógica del sorteo, y manipulación del DOM</li>
+</ul>
