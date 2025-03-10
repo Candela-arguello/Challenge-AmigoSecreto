@@ -15,18 +15,26 @@
 
 <h2>Cómo se utiliza la aplicación? </h2>
 <ul>
-    <li>Al iniciar la aplicación se visualiza la siguiente interfaz </li>
+    <p>Al iniciar la aplicación se visualiza la siguiente interfaz </p>
+    
     ![inicio](https://github.com/user-attachments/assets/89224c0e-89e9-4ac8-b165-83668563691a)
-    <li>Luego se ingresan los nombres de los amigos que serán sorteados</li>
+    
+    <p>Luego se ingresan los nombres de los amigos que serán sorteados</p>
+    
     ![Clara](https://github.com/user-attachments/assets/52f3b893-5b83-4642-a8ea-6fd1d9f49ba7)
-    <li>Todos los amigos añadidos se visualizarán en una lista por debajo </li>
+    
+    <p>Todos los amigos añadidos se visualizarán en una lista por debajo </p>
+     
      ![ListAmigos](https://github.com/user-attachments/assets/46371f76-de3f-4077-897e-d346b79323be)
-    <li>Al presionar el botón "Sorter Amigo", se seleccionará el nombre de un amigo aleatoriamente </li>
+    <p>Al presionar el botón "Sorter Amigo", se seleccionará el nombre de un amigo aleatoriamente </p>
+     
      ![Sorteo](https://github.com/user-attachments/assets/2fefcb1d-ac1f-4d28-be5e-fb2c43b02d08)
+
 </ul>
 
 <h3> 🔔 Importante 🔔</h3>
 <p> Si el usuario no ingresa nombres, o la lista está vacía se lanzará alguno de los siguientes errores</p>
+
 ![noHayAmigos](https://github.com/user-attachments/assets/4d233bcc-e66b-4fac-a4f3-2cb0e8e2289e)
 
 ![ingreseAmigos](https://github.com/user-attachments/assets/cd6e9687-00dd-4bdc-aa4b-14e358546307)
