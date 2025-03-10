@@ -28,7 +28,8 @@
 
 <p>Al presionar el botón "Sorter Amigo", se seleccionará el nombre de un amigo aleatoriamente </p>
      
-![Sorteo](https://github.com/user-attachments/assets/2fefcb1d-ac1f-4d28-be5e-fb2c43b02d08)
+![Sorteo](https://github.com/user-attachments/assets/ee589a50-b4a0-4e8f-8ebf-7c06a54f494d)
+
 
 <h3> 🔔 Importante 🔔</h3>
 <p> Si el usuario no ingresa nombres, o la lista está vacía se lanzará alguno de los siguientes errores</p>
