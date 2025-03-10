@@ -38,7 +38,7 @@ function sortearAmigo() {
 
     let resultado = document.getElementById("resultado");
     let result = document.createElement("li");
-    result.textContent = `El amig@ sorteado es: ${ListAmigos[sorteado]}`;
+    result.textContent = `El amigo sorteado es: ${ListAmigos[sorteado]}`;
     resultado.appendChild(result);
   }
 }
